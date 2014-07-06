@@ -90,7 +90,7 @@ Collect store and analyze your internet provider's usage stats.
 
 - Immediate TODO:
 
-  - Rather than adding providers - add types of providers (nologin, login-passwd, login-oauth, etc.) - and add one example of each provider.
+  - Rather than adding providers - add types of providers (nologin, login-passwd, login-oauth, etc.) - and add few examples of each provider.
   - Make check_provider.py a daemon for running periodically.
   - Add notifier - which will send alerts depending on defined thresholds.
   - Add ISP: ACT.
