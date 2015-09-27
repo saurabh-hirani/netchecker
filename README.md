@@ -1,6 +1,9 @@
 netchecker
 ==========
 
+This project is no longer actively maintained - due to time constraints and the way internet providers keep on changing the way they display
+data - the scraping logic needs to keep on changing. If what you are using works, great.
+
 Collect store and analyze your internet provider's usage stats.
 
 - Why?
